@@ -11,4 +11,6 @@ Dashboard Development: Interactive dashboards developed using tools such as Tabl
 Report Generation: Well-structured reports summarizing findings, methodologies, and recommendations for stakeholders.
 Version Control: Utilize Git for version control, ensuring a collaborative and organized development process.
 Documentation: Comprehensive documentation for each project, outlining the problem statement, methodology, and results achieved.
-Continuous Learning: Showcase commitment to continuous learning through the inclusion of self-assessment reflections, lessons learned, and areas for improvemen
+Continuous Learning: Showcase commitment to continuous learning through the inclusion of self-assessment reflections, lessons learned, and areas for improvement,
+
+I have made two different repositories for the projects that I have done i.e Sales Analysis & Financial Analysis
